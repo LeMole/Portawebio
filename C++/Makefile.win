@@ -1,0 +1,30 @@
+# Project: Project1
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = oopinheritance.o $(RES)
+LINKOBJ  = oopinheritance.o $(RES)
+LIBS =   
+INCS = 
+CXXINCS = 
+BIN  = oopinheritance.exe
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before oopinheritance.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "oopinheritance.exe" $(LIBS)
+
+oopinheritance.o: oopinheritance.cpp
+	$(CPP) -c oopinheritance.cpp -o oopinheritance.o $(CXXFLAGS)
