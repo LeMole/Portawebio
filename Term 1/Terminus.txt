@@ -1,0 +1,43 @@
+1.You have moved to SpellCastingAcademy. The halls are filled the hustle and 
+bustle of academy students scurrying to and from classes. The inside of the 
+academy is as impressive as it is on the outside with a high ceiling and 
+gothic arches, it seems even larger on the inside. 
+>ls
+ Locations: 
+PracticeRoom
+Lessons
+ Items: 
+HurryingStudent
+
+2.less means look at
+
+3.You can move it
+
+4.It says you need a valid item and location.
+
+5.There is a practice dummy in it.
+
+6.a pony
+
+7.Old Man
+
+8.use help
+
+9.It bites you
+
+10.Town Square of terminus
+
+11.DarkWizard', '...old tales tell of a DarkWizard who will fragment the 
+land... 
+ ...only the world-maker can stop the DarkWizard's virus from...
+...that the power of "sudo" may be the DarkWizard's only weakness...
+
+12.Gold Teeth
+
+13.ear of corn and farmer
+
+14.Kidnapped Kid
+
+
+
+
